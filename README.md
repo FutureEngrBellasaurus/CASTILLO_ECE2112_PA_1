@@ -1,4 +1,4 @@
-# ECE2112_Experiment_1
+# CASTILLO_ECE2112_PA_1
 ### Created by: CASTILLO, Aurabella Macy F.
 ### Section: 2ECE-C
 ### This is my 1st Experiment-Programming Assignment for ECE2112 (Advance Programming).
